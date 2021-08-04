@@ -3,7 +3,7 @@ var track, trackImage, boy, boyImage, left, right, edges;
 function preload() {
   //pre-load images
   trackImage = loadImage("path.png")
-  boyImage = loadAnimation("jake1.png", "jake2.png","jake3.png", "jake4.png", "jake5.png")
+  boyImage = loadAnimation("Jake1.png", "Jake2.png","jake3.png", "jake4.png", "jake5.png")
 }
 
 function setup(){
